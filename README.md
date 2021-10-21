@@ -2,7 +2,7 @@
 The resource pack for TheGhostyGamers
 
 
-Sorry, I can't get my minecraft to work, so I can't test that everything here works correctly. If you encounter any missing textures or bugs, please, please, DM me.
+Sorry, I can't get my minecraft to work, so I can't test that everything here works correctly. If you encounter any missing textures or bugs, please, please, file an issue report.
 
 
 
