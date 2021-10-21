@@ -15,12 +15,12 @@ For Connected Wool Textures:
 This requires:
 OptiFine (for Standalone or Forge): [Get OptiFine](https://optifine.net/downloads)
 
-Fabric: [Continutiy Mod](https://www.curseforge.com/minecraft/mc-mods/continuity) (Requires [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) [make sure to get 1.17 version], and also [Indium](https://github.com/comp500/Indium) [make sure to get 1.17 version] for use with sodium).
+Alternative Fabric Mods: [Continutiy Mod](https://www.curseforge.com/minecraft/mc-mods/continuity) (Requires [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) [make sure to get 1.17 version], and also [Indium](https://github.com/comp500/Indium) [make sure to get 1.17 version] for use with sodium).
 
 For Custom Grass Colors
 OptiFine (for Standalone or Forge): [Get OptiFine](https://optifine.net/downloads)
 
-Fabric: [Colormatic Mod](https://www.curseforge.com/minecraft/mc-mods/colormatic) (make sure to get 1.17 version) and this mod to implement the slightly decolored grass in the pack. (Requires Indium to work with sodium)
+Alternative Fabric Mods: [Colormatic Mod](https://www.curseforge.com/minecraft/mc-mods/colormatic) (make sure to get 1.17 version) and this mod to implement the slightly decolored grass in the pack. (Requires Indium to work with sodium)
 
 
 
@@ -33,12 +33,12 @@ Install the pack like normal
 For Connected Wool Textures:
 OptiFine (for Standalone or Forge): [Get OptiFine](https://optifine.net/downloads)
 
-Fabric: [NuclearFart's ConnectedBlockMod](https://github.com/Nuclearfarts/connected-block-textures )(Might require [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api), [make sure to get 1.16 version] and requres [indium](https://github.com/comp500/Indium/releases/tag/1.0.0%2Bmc1.16.5.) to work with sodium 
+Alternative Fabric Mods: [NuclearFart's ConnectedBlockMod](https://github.com/Nuclearfarts/connected-block-textures )(Might require [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api), [make sure to get 1.16 version] and requres [indium](https://github.com/comp500/Indium/releases/tag/1.0.0%2Bmc1.16.5.) to work with sodium 
 
 For Custom Grass Colors
 OptiFine (for Standalone or Forge): [OptiFine](https://optifine.net/downloads)
 
-Fabric:  [Colormatic Mod](https://www.curseforge.com/minecraft/mc-mods/colormatic) (make sure to get 1.16 version) and this mod to implement the slightly decolored grass in the pack. (Requires Indium to work with sodium)
+Alterntitve Fabric Mods:  [Colormatic Mod](https://www.curseforge.com/minecraft/mc-mods/colormatic) (make sure to get 1.16 version) and this mod to implement the slightly decolored grass in the pack. (Requires Indium to work with sodium)
 
 
 
