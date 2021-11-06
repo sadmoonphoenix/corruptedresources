@@ -1,6 +1,6 @@
 # ghostypack
-The resource pack for TheGhostyGamers\
-
+The resource pack for TheGhostyGamers
+\
 Thanks to [@ShoomyD](https://github.com/ShroomyD) for the bee textures! These will be added in the next update!
 \
 \
@@ -11,7 +11,7 @@ Sorry, I can't get my minecraft to work, so I can't test that everything here wo
 \
 \
 1.17.x Info:
-Install the pack like normal.\ 
+Install the pack like normal.
 \
 For Connected Wool Textures:
 This requires:
