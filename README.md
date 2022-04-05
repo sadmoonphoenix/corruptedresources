@@ -1,10 +1,10 @@
 # ghostypack
 The resource pack for TheGhostyGamers
 \
-Thanks to [@ShoomyD](https://github.com/ShroomyD) for the bee textures! These wil be added in a0.2.0!
+Thanks to [@ShoomyD](https://github.com/ShroomyD) for the enbee textures!
 \
 \
-Sorry, I can't get my minecraft to work, so I can't test that everything here works correctly. If you encounter any missing textures or bugs, please, please, file an issue report.\
+If you encounter any missing textures or bugs, please, please, file an issue report.\
 \
 \
 \
