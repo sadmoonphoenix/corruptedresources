@@ -1,51 +1,75 @@
 # ghostypack
-The resource pack for TheGhostyGamers
+## The resource pack for TheCorruptedGhosty
 \
 Thanks to [@ShoomyD](https://github.com/ShroomyD) for the enbee textures!
 \
 \
-If you encounter any missing textures or bugs, please, please, file an issue report.\
+If you encounter any missing textures or bugs, please, please, file an issue report.
+### 1.18.x Info:
+Install the pack like normal. 
 \
 \
+The following mods are required for some features. (ie. Connected textures, recoloured colour map)
 \
 \
-\
-1.17.x Info:
-Install the pack like normal.
-\
-For Connected Wool Textures:
-This requires:
-OptiFine (for Standalone or Forge): [Get OptiFine](https://optifine.net/downloads)\
-\
-Alternative Fabric Mods: [Continutiy Mod](https://www.curseforge.com/minecraft/mc-mods/continuity) (Requires [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) [make sure to get 1.17 version], and also [Indium](https://github.com/comp500/Indium) [make sure to get 1.17 version] for use with sodium).\
-\
-For Custom Grass Colors
-OptiFine (for Standalone or Forge): [Get OptiFine](https://optifine.net/downloads)\
-\
-Alternative Fabric Mods: [Colormatic Mod](https://www.curseforge.com/minecraft/mc-mods/colormatic) (make sure to get 1.17 version) and this mod to implement the slightly decolored grass in the pack. (Requires Indium to work with sodium)\
+[OptiFine](https://optifine.net/downloads) supports both standalone and Forge
 \
 \
+Alternativly, if you'd rather use Fabric, you can install the following mods.
 \
 \
+[Colormatic](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/all?filter-game-version=1738749986%3A73250) (download the latest avalible version for 1.18)
 \
-1.16.x
-Install the pack like normal\
+[Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity/files/all?filter-game-version=1738749986%3A73250) (download the latest avalible version for 1.18)
 \
-For Connected Wool Textures:
-OptiFine (for Standalone or Forge): [Get OptiFine](https://optifine.net/downloads)\
-\
-Alternative Fabric Mods: [NuclearFart's ConnectedBlockMod](https://github.com/Nuclearfarts/connected-block-textures )(Might require [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api), [make sure to get 1.16 version] and requres [indium](https://github.com/comp500/Indium/releases/tag/1.0.0%2Bmc1.16.5.) to work with sodium\
-\
-For Custom Grass Colors
-OptiFine (for Standalone or Forge): [OptiFine](https://optifine.net/downloads)\
-\
-Alterntitve Fabric Mods:  [Colormatic Mod](https://www.curseforge.com/minecraft/mc-mods/colormatic) (make sure to get 1.16 version) and this mod to implement the slightly decolored grass in the pack. (Requires Indium to work with sodium)\
+[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/all?filter-game-version=1738749986%3A73250) (required to make the mods work. download the version that matches your Fabric version, most likely the latest avalible for 1.18)
 \
 \
+Enbee textures are not yet supported without OptiFine. Coming soon.
+### 1.17.x Info:
+Install the pack like normal. 
 \
 \
+The following mods are required for some features. (ie. Connected textures, recoloured colour map)
 \
-1.8.x and 1.7.x
-Install the legacy download version\
 \
-Connected Wool and Grass Colors require [OptiFine](https://optifine.net/downloads)
+[OptiFine](https://optifine.net/downloads)\ supports both standalone and Forge
+\
+\
+Alternativly, if you'd rather use Fabric, you can install the following mods. 
+\
+\
+[Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic/files/all?filter-game-version=1738749986%3A73242) (download the latest avalible version for 1.17)
+\
+[Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity/files/all?filter-game-version=1738749986%3A73242) (download the latest avalible version for 1.17)
+\
+[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/all?filter-game-version=1738749986%3A73242) (required to make the mods work. download the version that matches your Fabric version, most likely the latest avalible for 1.17)
+\
+\
+Enbee textures are not yet supported without OptiFine. Coming soon.
+### 1.16.x
+Install the pack like normal
+\
+\
+The following mods are required for some features. (ie. Connected textures, recoloured colour map)
+\
+\
+[OptiFine](https://optifine.net/downloads)\ supports both standalone and Forge
+\
+\
+Alternativly, if you'd rather use Fabric, you can install the following mods. 
+\
+\
+[Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic/files/all?filter-game-version=1738749986%3A70886) (download the latest avalible version for 1.16)
+\
+[CBM](https://github.com/TwilightFlower/connected-block-textures/releases) (download the latest avalible version, double check the file says 1.16 in it)
+\
+[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/all?filter-game-version=1738749986%3A70886) (required to make the mods work. download the version that matches your Fabric version, most likely the latest avalible for 1.16)
+\
+\
+Enbee textures are not yet supported without OptiFine. Coming soon.
+### 1.8.x and 1.7.x
+Download the zip file on the [releases page](https://github.com/sadmoonphoenix/ghostypack/releases) that ends with "-old" and install it.
+\
+\
+Only [OptiFine](https://optifine.net/downloads) is avalible for these older versions of Minecraft.
