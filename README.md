@@ -1,4 +1,4 @@
-# ghostypack
+# CorruptedResources
 ## The resource pack for TheCorruptedGhosty
 ### Need help installing the texture pack? Click [here](https://github.com/sadmoonphoenix/ghostypack/blob/main/install.md#how-to-install-a-minecraft-resourcepack)
 \
