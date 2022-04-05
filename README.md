@@ -1,5 +1,6 @@
 # ghostypack
 ## The resource pack for TheCorruptedGhosty
+### Need help installing the texture pack? Click [here](https://github.com/sadmoonphoenix/ghostypack/blob/main/install.md#how-to-install-a-minecraft-resourcepack)
 \
 Thanks to [@ShoomyD](https://github.com/ShroomyD) for the enbee textures!
 \
@@ -12,10 +13,10 @@ Install the pack like normal.
 The following mods are required for some features. (ie. Connected textures, recoloured colour map)
 \
 \
-[OptiFine](https://optifine.net/downloads) supports both standalone and Forge
+[OptiFine](https://optifine.net/downloads) supports both standalone and Forge. [Need help?](https://github.com/sadmoonphoenix/ghostypack/blob/main/install.md#how-to-install-optifine)
 \
 \
-Alternativly, if you'd rather use Fabric, you can install the following mods.
+Alternativly, if you'd rather use Fabric, you can install the following mods. [Need help?](https://github.com/sadmoonphoenix/ghostypack/blob/main/install.md#how-to-install-alternative-fabric-mods)
 \
 \
 [Colormatic](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/all?filter-game-version=1738749986%3A73250) (download the latest avalible version for 1.18)
@@ -33,10 +34,10 @@ Install the pack like normal.
 The following mods are required for some features. (ie. Connected textures, recoloured colour map)
 \
 \
-[OptiFine](https://optifine.net/downloads)\ supports both standalone and Forge
+[OptiFine](https://optifine.net/downloads) supports both standalone and Forge. [Need help?](https://github.com/sadmoonphoenix/ghostypack/blob/main/install.md#how-to-install-optifine)
 \
 \
-Alternativly, if you'd rather use Fabric, you can install the following mods. 
+Alternativly, if you'd rather use Fabric, you can install the following mods. [Need help?](https://github.com/sadmoonphoenix/ghostypack/blob/main/install.md#how-to-install-alternative-fabric-mods)
 \
 \
 [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic/files/all?filter-game-version=1738749986%3A73242) (download the latest avalible version for 1.17)
@@ -54,10 +55,10 @@ Install the pack like normal
 The following mods are required for some features. (ie. Connected textures, recoloured colour map)
 \
 \
-[OptiFine](https://optifine.net/downloads)\ supports both standalone and Forge
+[OptiFine](https://optifine.net/downloads) supports both standalone and Forge. [Need help?](https://github.com/sadmoonphoenix/ghostypack/blob/main/install.md#how-to-install-optifine)
 \
 \
-Alternativly, if you'd rather use Fabric, you can install the following mods. 
+Alternativly, if you'd rather use Fabric, you can install the following mods. [Need help?](https://github.com/sadmoonphoenix/ghostypack/blob/main/install.md#how-to-install-alternative-fabric-mods)
 \
 \
 [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic/files/all?filter-game-version=1738749986%3A70886) (download the latest avalible version for 1.16)
@@ -72,4 +73,4 @@ Enbee textures are not yet supported without OptiFine. Coming soon.
 Download the zip file on the [releases page](https://github.com/sadmoonphoenix/ghostypack/releases) that ends with "-old" and install it.
 \
 \
-Only [OptiFine](https://optifine.net/downloads) is avalible for these older versions of Minecraft.
+Only [OptiFine](https://optifine.net/downloads) is avalible for these older versions of Minecraft. [Need help?](https://github.com/sadmoonphoenix/ghostypack/blob/main/install.md#how-to-install-optifine)
