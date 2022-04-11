@@ -57,7 +57,7 @@
     </details>
     <details><summary><h4>Installtion of Mods</h4></summary>
     <li><p>Put the <a href=https://github.com/sadmoonphoenix/ghostypack/blob/main/README.md>mods found here</a> in the mods folder</p></li>
-    <li><p>Launch the "Fabric" version in the launcher<p></li>
+    <li><p>Launch the "Fabric" version in the launcher</p></li>
     </details>
     </details>
     <details>
@@ -70,6 +70,6 @@
     </details>
     <details><summary><h4>Installtion of Mods</h4></summary>
     <li><p>Put the <a href=https://github.com/sadmoonphoenix/ghostypack/blob/main/README.md>mods found here</a> in the mods folder</p></li>
-    <li><p>Launch the "Fabric" version in the launcher<p></li>
+    <li><p>Launch the "Fabric" version in the launcher</p></li>
     </details>
     </details>
