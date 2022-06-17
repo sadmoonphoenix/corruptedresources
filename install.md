@@ -16,7 +16,7 @@
   <details>
   <summary><h2>Linux</h2></summary>
   <ul><li><p>Open the Terminal</p></li>
-  <li><p>Type <code>cd ~/minecraft</code></p></li>
+  <li><p>Type <code>cd ~/minecraft/resourcepacks</code></p></li>
   <li><h5>GNOME: Type <code>nautilus .</code> WITH the period</li><h5>
   <li><h5>KDE: Type <code>dolphin . &</code> WITH the period and ampersand</h5></li>
   <li><p>Move resourcepack file (commonly .zip) into the folder that opened</p></li></ul>
