@@ -65,7 +65,7 @@
     <details><summary><h4>Installation of Fabric</h4></summary>
     <li><p>Download the .jar for <a href=https://fabricmc.net/use>Fabric</a> if you haven't already</p></li>
     <li><p>Open the .jar file (if Fabric isn't installed)</p></li>
-    <li><p>If the jar file fails to open, open a Terminal, and run <code>java -jar <path-to-jar-file></code>
+    <li><p>If the jar file fails to open, open a Terminal, and run <code>java -jar path-to-jar-file</code>
     <li><p>Select the correct version of Minecraft</p></li>
     <li><p>Press install</p></li>
     </details>
