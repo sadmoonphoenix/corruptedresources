@@ -1,7 +1,7 @@
 # CorruptedResources
 ## The resource pack for TheCorruptedGhosty
 ### This resource pack requires some mods to work as intended. Read below. 
-#### This resource pack is intended for Java Edition. Bedrock port may be coming soon. 
+#### This resource pack is intended for Java Edition. Bedrock port can be found [here](https://github.com/sadmoonphoenix/corruptedresources/tree/TEST_bedrock).
 Special thanks to [@ShoomyD](https://github.com/ShroomyD) for the enbee textures!
 \
 \
